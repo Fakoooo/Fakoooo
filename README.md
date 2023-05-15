@@ -1,7 +1,7 @@
  
  
  
-<h1 align="center">Hi 👋, I'm Fako</h1>
+<h1 align="center">Hi 👋, I'm Fako A Norwegian Coder trying to learn</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakoooo&label=Profile%20views&color=0e75b6&style=flat" alt="Fakoooo" /> </p>
 
 </p>
